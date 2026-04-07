@@ -18,7 +18,25 @@ tags:
 status: active
 ---
 
+, 2025
 
+
+### Meeting Coordination Issue
+
+- Yadu and Zeeshan delayed on another call
+- Running longer than expected
+- Aditya apologized for timing conflict
+- Meeting rescheduled
+- Will coordinate new time via chat
+- Commitment to ensure punctuality next time
+
+
+### Next Steps
+
+- Aditya to message Charandeep with new meeting time
+
+
+### Reschedule Timelock Protocol presentation
 
 ## Related
 
@@ -27,6 +45,7 @@ status: active
 - [[Mado]]
 - [[Zeeshan]]
 - [[Timelock]]
+
 
 
 ---
