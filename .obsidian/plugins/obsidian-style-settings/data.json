@@ -1,9 +1,21 @@
 {
-  "minimal-style@@h1-size": "1.8em",
-  "minimal-style@@h2-size": "1.4em",
-  "minimal-style@@h3-size": "1.15em",
-  "minimal-style@@bold-color@@dark": "#c792ea",
-  "minimal-style@@italic-color@@dark": "#82aaff",
-  "minimal-style@@tag-background-color@@dark": "#2d2b55",
-  "minimal-style@@tag-font-color@@dark": "#c792ea"
+  "catppuccin-theme@@catppuccin-theme-dark": "catppuccin-mocha",
+  "catppuccin-theme@@catppuccin-theme-light": "catppuccin-latte",
+  "catppuccin-theme@@catppuccin-accent-dark": "catppuccin-accent-mauve",
+  "catppuccin-theme@@catppuccin-accent-light": "catppuccin-accent-mauve",
+  "catppuccin-theme@@catppuccin-custom-checkboxes": true,
+  "catppuccin-theme@@catppuccin-header-color-h1": "catppuccin-header-red",
+  "catppuccin-theme@@catppuccin-header-color-h2": "catppuccin-header-peach",
+  "catppuccin-theme@@catppuccin-header-color-h3": "catppuccin-header-yellow",
+  "catppuccin-theme@@catppuccin-header-color-h4": "catppuccin-header-green",
+  "catppuccin-theme@@catppuccin-header-color-h5": "catppuccin-header-blue",
+  "catppuccin-theme@@catppuccin-header-color-h6": "catppuccin-header-mauve",
+  "catppuccin-theme@@catppuccin-colorful-headings": true,
+  "catppuccin-theme@@catppuccin-bold-color": "catppuccin-bold-peach",
+  "catppuccin-theme@@catppuccin-italic-color": "catppuccin-italic-blue",
+  "catppuccin-theme@@catppuccin-callout-radius": "8px",
+  "catppuccin-theme@@catppuccin-colorful-frame": false,
+  "catppuccin-theme@@catppuccin-inline-title": true,
+  "catppuccin-theme@@catppuccin-table-width": true,
+  "catppuccin-theme@@catppuccin-active-line": true
 }

@@ -1,7 +1,7 @@
 {
-  "accentColor": "#7c5bf0",
+  "accentColor": "#cba6f7",
   "theme": "obsidian",
-  "cssTheme": "Minimal",
+  "cssTheme": "Catppuccin",
   "baseFontSize": 16,
   "interfaceFontSize": 14,
   "nativeMenus": null,
