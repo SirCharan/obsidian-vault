@@ -1,0 +1,29 @@
+{
+  "daily": {
+    "format": "YYYY-MM-DD",
+    "folder": "Daily",
+    "template": "Templates/Daily Note.md",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "gggg-[W]ww",
+    "folder": "",
+    "template": "",
+    "enabled": false
+  },
+  "monthly": {
+    "format": "YYYY-MM",
+    "folder": "",
+    "template": "",
+    "enabled": false
+  },
+  "quarterly": {
+    "enabled": false
+  },
+  "yearly": {
+    "enabled": false
+  },
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": true
+}
