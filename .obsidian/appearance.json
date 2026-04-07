@@ -5,5 +5,8 @@
   "baseFontSize": 16,
   "nativeMenus": null,
   "textFontFamily": "Inter, -apple-system, BlinkMacSystemFont, sans-serif",
-  "monospaceFontFamily": "JetBrains Mono, SF Mono, Menlo, monospace"
+  "monospaceFontFamily": "JetBrains Mono, SF Mono, Menlo, monospace",
+  "enabledCssSnippets": [
+    "true-black"
+  ]
 }
