@@ -3,7 +3,6 @@
   "theme": "obsidian",
   "cssTheme": "Catppuccin",
   "baseFontSize": 16,
-  "interfaceFontSize": 14,
   "nativeMenus": null,
   "textFontFamily": "Inter, -apple-system, BlinkMacSystemFont, sans-serif",
   "monospaceFontFamily": "JetBrains Mono, SF Mono, Menlo, monospace"

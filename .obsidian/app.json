@@ -17,5 +17,8 @@
   "newLinkFormat": "shortest",
   "useMarkdownLinks": false,
   "attachmentFolderPath": "./attachments",
-  "trashOption": "local"
+  "trashOption": "local",
+  "enabledCssSnippets": [
+    "true-black"
+  ]
 }

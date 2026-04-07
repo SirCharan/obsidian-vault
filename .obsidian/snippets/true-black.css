@@ -1,0 +1,50 @@
+/* True Black Background Override */
+body {
+  --background-primary: #000000 !important;
+  --background-primary-alt: #0a0a0a !important;
+  --background-secondary: #050505 !important;
+  --background-secondary-alt: #0a0a0a !important;
+  --background-modifier-border: #1a1a2e !important;
+  --background-modifier-form-field: #0a0a0a !important;
+  --background-modifier-hover: #111122 !important;
+  --background-modifier-active-hover: #151530 !important;
+  --modal-background: #050505 !important;
+  --prompt-background: #050505 !important;
+  --titlebar-background: #000000 !important;
+  --titlebar-background-focused: #000000 !important;
+  --graph-background: #000000 !important;
+}
+
+.workspace-leaf,
+.workspace-tabs,
+.workspace-tab-header-container,
+.nav-folder,
+.nav-file,
+.side-dock,
+.side-dock-ribbon,
+.workspace-ribbon {
+  background-color: #000000 !important;
+}
+
+/* Slightly lighter surface for cards/callouts for depth */
+.callout {
+  background-color: #0d0d1a !important;
+}
+
+.markdown-preview-view table {
+  background-color: #050510 !important;
+}
+
+.markdown-preview-view table tr:nth-child(even) {
+  background-color: #0a0a15 !important;
+}
+
+/* Properties/frontmatter area */
+.metadata-container {
+  background-color: #050510 !important;
+}
+
+/* Graph view */
+.graph-view.color-fill {
+  color: #000000 !important;
+}
