@@ -9,59 +9,92 @@
   "colorGroups": [
     {
       "query": "path:1-Projects/Timelock",
-      "color": { "a": 1, "rgb": 5765887 }
+      "color": {
+        "a": 1,
+        "rgb": 5765887
+      }
     },
     {
       "query": "path:1-Projects/Stocky",
-      "color": { "a": 1, "rgb": 65382 }
+      "color": {
+        "a": 1,
+        "rgb": 65382
+      }
     },
     {
       "query": "path:1-Projects/Fundraising",
-      "color": { "a": 1, "rgb": 16750848 }
+      "color": {
+        "a": 1,
+        "rgb": 16750848
+      }
     },
     {
       "query": "path:1-Projects/Monad",
-      "color": { "a": 1, "rgb": 8388863 }
+      "color": {
+        "a": 1,
+        "rgb": 8388863
+      }
     },
     {
       "query": "path:1-Projects/Fuze",
-      "color": { "a": 1, "rgb": 16776960 }
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
     },
     {
       "query": "path:People",
-      "color": { "a": 1, "rgb": 16761035 }
+      "color": {
+        "a": 1,
+        "rgb": 16761035
+      }
     },
     {
       "query": "path:MOCs",
-      "color": { "a": 1, "rgb": 16777215 }
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
     },
     {
       "query": "path:2-Areas",
-      "color": { "a": 1, "rgb": 5635925 }
+      "color": {
+        "a": 1,
+        "rgb": 5635925
+      }
     },
     {
       "query": "path:3-Resources",
-      "color": { "a": 1, "rgb": 11184810 }
+      "color": {
+        "a": 1,
+        "rgb": 11184810
+      }
     },
     {
       "query": "path:Meetings",
-      "color": { "a": 1, "rgb": 8421504 }
+      "color": {
+        "a": 1,
+        "rgb": 8421504
+      }
     },
     {
       "query": "path:4-Archive",
-      "color": { "a": 1, "rgb": 4210752 }
+      "color": {
+        "a": 1,
+        "rgb": 4210752
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -0.5,
   "nodeSizeMultiplier": 1.5,
-  "lineSizeMultiplier": 0.8,
+  "lineSizeMultiplier": 0.735792824074074,
   "collapse-forces": false,
   "centerStrength": 0.4,
   "repelStrength": 13,
   "linkStrength": 0.8,
   "linkDistance": 120,
-  "scale": 1,
+  "scale": 0.7904721522150485,
   "close": false
 }
