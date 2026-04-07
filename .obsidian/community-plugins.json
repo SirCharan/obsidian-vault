@@ -5,5 +5,12 @@
   "google-calendar",
   "calendar",
   "obsidian-git",
-  "periodic-notes"
+  "periodic-notes",
+  "obsidian-style-settings",
+  "obsidian-minimal-settings",
+  "table-editor-obsidian",
+  "obsidian-outliner",
+  "obsidian-auto-link-title",
+  "omnisearch",
+  "obsidian-hider"
 ]

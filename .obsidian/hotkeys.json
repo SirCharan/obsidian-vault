@@ -1,0 +1,7 @@
+{
+  "omnisearch:show-modal": [{ "modifiers": ["Mod", "Shift"], "key": "O" }],
+  "templater-obsidian:insert-templater": [{ "modifiers": ["Mod", "Shift"], "key": "T" }],
+  "app:toggle-left-sidebar": [{ "modifiers": ["Mod"], "key": "\\" }],
+  "app:toggle-right-sidebar": [{ "modifiers": ["Mod", "Shift"], "key": "\\" }],
+  "graph:open": [{ "modifiers": ["Mod", "Shift"], "key": "G" }]
+}

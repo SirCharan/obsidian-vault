@@ -1,0 +1,9 @@
+{
+  "minimal-style@@h1-size": "1.8em",
+  "minimal-style@@h2-size": "1.4em",
+  "minimal-style@@h3-size": "1.15em",
+  "minimal-style@@bold-color@@dark": "#c792ea",
+  "minimal-style@@italic-color@@dark": "#82aaff",
+  "minimal-style@@tag-background-color@@dark": "#2d2b55",
+  "minimal-style@@tag-font-color@@dark": "#c792ea"
+}
