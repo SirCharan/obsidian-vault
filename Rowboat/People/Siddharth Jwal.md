@@ -1,0 +1,30 @@
+---
+name: "Siddharth Jwal"
+role: "Founder, sports chain and crypto startup"
+org: "Unknown"
+axes: [D]
+relationship_type: "contact"
+relationship_strength: "3"
+meeting_count: "0"
+first_met: ""
+last_seen: ""
+sentiment: "neutral"
+tags:
+  - rowboat
+  - person
+---
+
+
+## Links
+- **Axis:** [[Axis D - Ecosystem Leaders & Advisors]]
+
+## Key Facts
+- Founder of a sports chain and runs a crypto startup
+- Part of CK’s crypto investor network
+
+## Other Meetings Mentioned In
+- **2026-02-17** — Crypto and AI innovation exploration with startup insights
+  CK explored untapped crypto market opportunities, noted regulatory challenges and lack of VC interes
+
+## Next Steps
+None
