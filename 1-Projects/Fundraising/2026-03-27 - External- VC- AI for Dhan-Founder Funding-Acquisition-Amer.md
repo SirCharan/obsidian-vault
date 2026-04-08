@@ -11,6 +11,7 @@ people:
 granola_id: c8f007e3-a8c2-4553-9767-510856f0b2b0
 granola_url: https://notes.granola.ai/d/c8f007e3-a8c2-4553-9767-510856f0b2b0
 tags:
+  - fundraising
   - meeting
   - external
   - ai

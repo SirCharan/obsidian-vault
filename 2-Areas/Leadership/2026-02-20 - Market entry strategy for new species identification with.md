@@ -9,6 +9,7 @@ people:
 granola_id: 318a0dda-b48d-449d-94be-6c2621940619
 granola_url: https://notes.granola.ai/d/318a0dda-b48d-449d-94be-6c2621940619
 tags:
+  - leadership
   - meeting
   - strategy
 status: active

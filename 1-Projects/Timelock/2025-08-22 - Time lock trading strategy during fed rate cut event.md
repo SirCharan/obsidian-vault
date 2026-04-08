@@ -9,6 +9,7 @@ people:
 granola_id: ed62ed7a-32bd-4766-b249-dc4109794d6f
 granola_url: https://notes.granola.ai/d/ed62ed7a-32bd-4766-b249-dc4109794d6f
 tags:
+  - timelock
   - meeting
   - strategy
   - ai

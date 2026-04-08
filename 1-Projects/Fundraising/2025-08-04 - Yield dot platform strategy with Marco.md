@@ -9,6 +9,7 @@ people:
 granola_id: 66ce9f8b-a01d-4ed9-a593-5c7ef75d216f
 granola_url: https://notes.granola.ai/d/66ce9f8b-a01d-4ed9-a593-5c7ef75d216f
 tags:
+  - fundraising
   - meeting
   - strategy
   - defi

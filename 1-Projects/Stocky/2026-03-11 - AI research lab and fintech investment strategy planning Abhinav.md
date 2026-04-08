@@ -9,6 +9,7 @@ people:
 granola_id: ee14cbbf-556e-4287-b249-f3bd885626e1
 granola_url: https://notes.granola.ai/d/ee14cbbf-556e-4287-b249-f3bd885626e1
 tags:
+  - stocky
   - meeting
   - strategy
   - ai

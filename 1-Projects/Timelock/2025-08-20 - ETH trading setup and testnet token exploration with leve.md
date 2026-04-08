@@ -9,6 +9,7 @@ people:
 granola_id: baa3fc07-62c8-4a12-b402-fb43285fc489
 granola_url: https://notes.granola.ai/d/baa3fc07-62c8-4a12-b402-fb43285fc489
 tags:
+  - timelock
   - meeting
   - 1-on-1
   - crypto

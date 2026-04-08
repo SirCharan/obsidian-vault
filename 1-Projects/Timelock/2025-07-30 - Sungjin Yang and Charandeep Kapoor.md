@@ -9,6 +9,7 @@ people:
 granola_id: f2bb59ae-675c-46c5-8a1a-30197413f1f9
 granola_url: https://notes.granola.ai/d/f2bb59ae-675c-46c5-8a1a-30197413f1f9
 tags:
+  - timelock
   - meeting
   - 1-on-1
   - defi

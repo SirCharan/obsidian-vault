@@ -9,6 +9,7 @@ people:
 granola_id: 25400e7e-15e5-48ad-8ce5-3c47d5430743
 granola_url: https://notes.granola.ai/d/25400e7e-15e5-48ad-8ce5-3c47d5430743
 tags:
+  - partnerships
   - meeting
   - 1-on-1
 status: active

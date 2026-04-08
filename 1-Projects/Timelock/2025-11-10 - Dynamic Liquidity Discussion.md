@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Dynamic Liquidity Discussion"
 date: 2025-11-10
 type: meeting
 meeting_type: 1-on-1

@@ -9,6 +9,7 @@ people:
 granola_id: f95cf8c6-aa82-4fe9-acd6-056031a738d9
 granola_url: https://notes.granola.ai/d/f95cf8c6-aa82-4fe9-acd6-056031a738d9
 tags:
+  - crypto-markets
   - meeting
   - strategy
   - trading

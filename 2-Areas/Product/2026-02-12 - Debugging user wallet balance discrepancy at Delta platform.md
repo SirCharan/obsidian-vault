@@ -9,6 +9,7 @@ people:
 granola_id: 409413c4-e357-4876-8963-62534756d3a3
 granola_url: https://notes.granola.ai/d/409413c4-e357-4876-8963-62534756d3a3
 tags:
+  - product
   - meeting
   - 1-on-1
   - ai

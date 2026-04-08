@@ -11,6 +11,7 @@ people:
 granola_id: 7d2e6243-d0e7-400c-9ce3-211c803b229e
 granola_url: https://notes.granola.ai/d/7d2e6243-d0e7-400c-9ce3-211c803b229e
 tags:
+  - hiring
   - meeting
   - external
   - ai

@@ -9,6 +9,7 @@ people:
 granola_id: c8662cb1-8b56-4f48-8c46-94526e9a7765
 granola_url: https://notes.granola.ai/d/c8662cb1-8b56-4f48-8c46-94526e9a7765
 tags:
+  - crypto-markets
   - meeting
   - strategy
   - defi

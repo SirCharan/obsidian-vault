@@ -9,6 +9,7 @@ people:
 granola_id: e9154f5c-51b8-423d-9a5b-96054b4a4b21
 granola_url: https://notes.granola.ai/d/e9154f5c-51b8-423d-9a5b-96054b4a4b21
 tags:
+  - timelock
   - meeting
   - strategy
   - crypto

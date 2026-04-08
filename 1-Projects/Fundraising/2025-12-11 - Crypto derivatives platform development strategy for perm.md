@@ -9,6 +9,7 @@ people:
 granola_id: 7c0bf21d-b561-4654-8f0a-57f130d5cb35
 granola_url: https://notes.granola.ai/d/7c0bf21d-b561-4654-8f0a-57f130d5cb35
 tags:
+  - fundraising
   - meeting
   - strategy
   - crypto

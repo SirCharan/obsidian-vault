@@ -9,6 +9,7 @@ people:
 granola_id: f3a60f36-fc48-43d9-b669-e53f083b7473
 granola_url: https://notes.granola.ai/d/f3a60f36-fc48-43d9-b669-e53f083b7473
 tags:
+  - timelock
   - meeting
   - 1-on-1
   - ai

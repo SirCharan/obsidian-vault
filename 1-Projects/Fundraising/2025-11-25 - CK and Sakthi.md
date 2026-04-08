@@ -10,6 +10,7 @@ people:
 granola_id: bc7f9abf-24cd-4dc6-924f-ae336cda60db
 granola_url: https://notes.granola.ai/d/bc7f9abf-24cd-4dc6-924f-ae336cda60db
 tags:
+  - fundraising
   - meeting
   - 1-on-1
   - ai

@@ -11,6 +11,7 @@ people:
 granola_id: c2947f02-c5b9-4420-9a6e-68bc903aba3f
 granola_url: https://notes.granola.ai/d/c2947f02-c5b9-4420-9a6e-68bc903aba3f
 tags:
+  - timelock
   - meeting
   - external
   - defi

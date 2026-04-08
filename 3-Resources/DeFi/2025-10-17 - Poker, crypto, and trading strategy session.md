@@ -9,6 +9,7 @@ people:
 granola_id: d07fa54f-36eb-43bf-9ba9-1c9d9a65bba3
 granola_url: https://notes.granola.ai/d/d07fa54f-36eb-43bf-9ba9-1c9d9a65bba3
 tags:
+  - defi
   - meeting
   - strategy
   - crypto

@@ -9,6 +9,7 @@ people:
 granola_id: 679c4bfc-77ce-4a6e-9047-c9cb548a06a8
 granola_url: https://notes.granola.ai/d/679c4bfc-77ce-4a6e-9047-c9cb548a06a8
 tags:
+  - stocky
   - meeting
   - 1-on-1
   - defi

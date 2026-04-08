@@ -10,6 +10,7 @@ people:
 granola_id: 31dbc565-8089-43da-aea1-52417c4f8dd6
 granola_url: https://notes.granola.ai/d/31dbc565-8089-43da-aea1-52417c4f8dd6
 tags:
+  - product
   - meeting
   - 1-on-1
 status: active

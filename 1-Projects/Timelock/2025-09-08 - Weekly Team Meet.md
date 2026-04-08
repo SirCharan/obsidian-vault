@@ -11,6 +11,7 @@ people:
 granola_id: 3b3add22-b33b-4938-903f-cec6162e85ee
 granola_url: https://notes.granola.ai/d/3b3add22-b33b-4938-903f-cec6162e85ee
 tags:
+  - timelock
   - meeting
   - external
   - crypto

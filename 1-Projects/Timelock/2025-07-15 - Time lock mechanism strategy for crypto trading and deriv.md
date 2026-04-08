@@ -9,6 +9,7 @@ people:
 granola_id: 5fc510e0-4310-4ef7-8314-437b4b00774c
 granola_url: https://notes.granola.ai/d/5fc510e0-4310-4ef7-8314-437b4b00774c
 tags:
+  - timelock
   - meeting
   - strategy
   - defi

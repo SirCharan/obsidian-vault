@@ -9,6 +9,7 @@ people:
 granola_id: 84ecd776-d29a-4df6-ab18-7b6ee6787e81
 granola_url: https://notes.granola.ai/d/84ecd776-d29a-4df6-ab18-7b6ee6787e81
 tags:
+  - timelock
   - meeting
   - 1-on-1
 status: active

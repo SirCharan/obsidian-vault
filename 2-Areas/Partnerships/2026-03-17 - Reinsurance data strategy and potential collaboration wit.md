@@ -9,6 +9,7 @@ people:
 granola_id: a06df257-67fd-40ef-b47d-b51e63ba3c2d
 granola_url: https://notes.granola.ai/d/a06df257-67fd-40ef-b47d-b51e63ba3c2d
 tags:
+  - partnerships
   - meeting
   - strategy
 status: active
