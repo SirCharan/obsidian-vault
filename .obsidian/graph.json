@@ -9,51 +9,87 @@
   "colorGroups": [
     {
       "query": "path:1-Projects/Timelock",
-      "color": { "a": 1, "rgb": 8959101 }
+      "color": {
+        "a": 1,
+        "rgb": 8959101
+      }
     },
     {
       "query": "path:1-Projects/Stocky",
-      "color": { "a": 1, "rgb": 10600662 }
+      "color": {
+        "a": 1,
+        "rgb": 10600662
+      }
     },
     {
       "query": "path:1-Projects/Fundraising",
-      "color": { "a": 1, "rgb": 16360437 }
+      "color": {
+        "a": 1,
+        "rgb": 16360437
+      }
     },
     {
       "query": "path:1-Projects/Monad",
-      "color": { "a": 1, "rgb": 13346551 }
+      "color": {
+        "a": 1,
+        "rgb": 13346551
+      }
     },
     {
       "query": "path:1-Projects/Fuze",
-      "color": { "a": 1, "rgb": 15785858 }
+      "color": {
+        "a": 1,
+        "rgb": 15785858
+      }
     },
     {
       "query": "path:People",
-      "color": { "a": 1, "rgb": 15559411 }
+      "color": {
+        "a": 1,
+        "rgb": 15559411
+      }
     },
     {
       "query": "path:MOCs",
-      "color": { "a": 1, "rgb": 13559789 }
+      "color": {
+        "a": 1,
+        "rgb": 13559789
+      }
     },
     {
       "query": "path:Stocky Terminal",
-      "color": { "a": 1, "rgb": 9419450 }
+      "color": {
+        "a": 1,
+        "rgb": 9419450
+      }
     },
     {
       "query": "path:Stocky AI",
-      "color": { "a": 1, "rgb": 7571183 }
+      "color": {
+        "a": 1,
+        "rgb": 7571183
+      }
     },
     {
       "query": "path:2-Areas",
-      "color": { "a": 1, "rgb": 9489643 }
+      "color": {
+        "a": 1,
+        "rgb": 9489643
+      }
     },
     {
       "query": "path:3-Resources",
-      "color": { "a": 1, "rgb": 11303007 }
+      "color": {
+        "a": 1,
+        "rgb": 11303007
+      }
     },
     {
       "query": "path:4-Archive",
-      "color": { "a": 1, "rgb": 7303023 }
+      "color": {
+        "a": 1,
+        "rgb": 7303023
+      }
     }
   ],
   "collapse-display": false,
@@ -66,6 +102,6 @@
   "repelStrength": 13,
   "linkStrength": 0.8,
   "linkDistance": 120,
-  "scale": 1,
+  "scale": 0.18262591841508646,
   "close": false
 }
