@@ -21,13 +21,13 @@
   "sync": false,
   "footnotes": false,
   "slash-command": false,
-  "markdown-importer": false,
+  "markdown-importer": true,
   "zk-prefixer": false,
   "random-note": false,
   "slides": false,
   "audio-recorder": false,
   "workspaces": false,
-  "publish": false,
+  "publish": true,
   "bases": true,
   "webviewer": false
 }

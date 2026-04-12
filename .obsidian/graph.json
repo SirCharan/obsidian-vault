@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "stocky",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
@@ -102,6 +102,6 @@
   "repelStrength": 20,
   "linkStrength": 0.802256944444444,
   "linkDistance": 500,
-  "scale": 0.2083424922039487,
+  "scale": 0.11456270193049817,
   "close": false
 }
